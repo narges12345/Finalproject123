@@ -1,0 +1,80 @@
+body {
+    background-color: azure;
+}
+h2 {
+    text-align: center;
+}
+nav {
+    border-color: lightblue;
+    border-style: solid;
+    border-width: 2px;
+    display: flex;
+    position: sticky;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+
+    background-color: lightblue;
+    Gap: 50px;
+    float: center;
+    word-spacing: 20px;
+
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+
+    margin-top: 5px;
+    margin-right: 20px;
+    margin-left: 20px;
+    }
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+.in-line {
+    display: block;
+    background-color: lightgreen;
+}
+.breadcrumbs {
+    text-align: right;
+}
+.point {
+    background-color: lightgreen;
+}
+        h2{
+            text-align: center;
+        }
+        div {
+            background-color: lightblue;
+            border-width: 60px;
+            margin-top: 10px;
+            margin-right: auto;
+            margin-bottom: 10px;
+            margin-left: auto;
+            padding-left: 30px;
+            padding-bottom: center;
+            padding-right: 20px;
+            line-height: 20px;
+            display: block;
+        }
+        label {
+            display: block;
+        }
+.footer-container {
+    display: block;
+    background-color: azure;
+}
+.footer {
+    background-color: blue;
+    text-align: center;
+}
+.container {
+    background-color: blueviolet;
+    text-align: center;
+}
+.button-row {
+    text-align: right;
+}
+.submit {
+    background-color: azure;
+}
